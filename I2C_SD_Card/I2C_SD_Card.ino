@@ -1,9 +1,6 @@
 /*
-   ATtiny1614 @ 20MHz (internal clock; BOD disabled)
-   
-   CC BY 4.0
-   Licensed under a Creative Commons Attribution 4.0 International license: 
-   http://creativecommons.org/licenses/by/4.0/
+   tested with ATtiny1614 @ 20MHz (internal clock; BOD disabled)
+  
 */
 
 #include <SD.h>
