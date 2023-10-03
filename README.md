@@ -1,13 +1,17 @@
 # I2C-SD-Card
-Arduino code for a custom I2C based SD Card Module. 
-
-Note: This may only work for the ATtiny1624 and 1614 and others with RAM above 900bytes (which is about the size needed by the Arduino SD card library)
 
 The project is based on the work of David Johnson-Davies and Spence Konde's Mega Tiny Core.
 
 CC BY 4.0
 Licensed under a Creative Commons Attribution 4.0 International license: 
 http://creativecommons.org/licenses/by/4.0/
+
+
+
+Arduino code for a custom I2C based SD Card Module. 
+
+Note: This may only work for the ATtiny1624 and 1614 and others with RAM above 900bytes (which is about the size needed by the Arduino SD card library)
+
 
 Guide 
 Compile the program using Spence Konde's megaTiny Core on GitHub. You can follow this Guide ( https://www.electronics-lab.com/project/using-new-attiny-processors-arduino-ide-attiny412-attiny1614-attiny3216-attiny1616-attiny3217/ ) to figure out how to connect the attiny to Arduino and use the core for programming. 
